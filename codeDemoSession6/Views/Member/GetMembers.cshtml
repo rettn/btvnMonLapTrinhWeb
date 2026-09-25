@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+
+<h2>Danh sách thành viên</h2>
+
+<a asp-action="Create" class="btn btn-primary">
+    Thêm mới
+</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã thành viên</th>
+            <th>Username</th>
+            <th>Họ và tên</th>
+            <th>Password</th>
+            <th>Email</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var m in ViewBag.members)
+        {
+            <tr>
+                <td>@m.MemberId</td>
+                <td>@m.Username</td>
+                <td>@m.Fullname</td>
+                <td>@m.Password</td>
+                <td>@m.Email</td>
+
+                <td>
+                    <a asp-action="Delete"
+                       asp-route-id="@m.MemberId"
+                       class="btn btn-danger">
+                        Xóa
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
