@@ -1,0 +1,59 @@
+﻿@model codeDemoSession7.Models.DataModels.Member
+
+@{
+    ViewData["Title"] = "Thêm mới thành viên";
+}
+
+<h2>Thêm mới thành viên</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.msg))
+{
+    @Html.Raw(ViewBag.msg)
+}
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            @Html.AntiForgeryToken()
+
+            <div class="mb-1">
+                <label asp-for="MemberId" class="form-label"></label>
+                <input asp-for="MemberId" class="form-control" readonly />
+            </div>
+
+            <div class="mb-1">
+                <label asp-for="UserName" class="form-label"></label>
+                <input asp-for="UserName" class="form-control" />
+            </div>
+
+            <div class="mb-1">
+                <label asp-for="FullName" class="form-label"></label>
+                <input asp-for="FullName" class="form-control" />
+            </div>
+
+            <div class="mb-1">
+                <label asp-for="Password" class="form-label"></label>
+                <input asp-for="Password" type="password" class="form-control" />
+            </div>
+
+            <div class="mb-1">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" type="email" class="form-control" />
+            </div>
+
+            <div class="mb-1">
+                <label asp-for="Phone" class="form-label"></label>
+                <input asp-for="Phone" class="form-control" />
+            </div>
+
+            <div class="mb-2">
+                <label asp-for="Birthday" class="form-label"></label>
+                <input asp-for="Birthday" type="datetime-local" class="form-control" />
+            </div>
+
+            <button type="submit" class="btn btn-primary">Lưu</button>
+        </form>
+    </div>
+</div>
