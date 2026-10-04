@@ -1,0 +1,108 @@
+﻿@model baitapthemSession7.Models.Product
+
+<h1>Thêm sản phẩm</h1>
+
+<form asp-action="Create" method="post">
+
+    <div asp-validation-summary="ModelOnly"
+         class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Name">
+            Tên sản phẩm
+        </label>
+
+        <input asp-for="Name"
+               class="form-control" />
+
+        <span asp-validation-for="Name"
+              class="text-danger"></span>
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="Image">
+            Đường dẫn ảnh
+        </label>
+
+        <input asp-for="Image"
+               class="form-control" />
+
+        <span asp-validation-for="Image"
+              class="text-danger"></span>
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="Price">
+            Giá
+        </label>
+
+        <input asp-for="Price"
+               type="text"
+               class="form-control" />
+
+        <span asp-validation-for="Price"
+              class="text-danger"></span>
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="SalePrice">
+            Giá khuyến mãi
+        </label>
+
+        <input asp-for="SalePrice"
+               type="text"
+               class="form-control" />
+
+        <span asp-validation-for="SalePrice"
+              class="text-danger"></span>
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="CategoryId">
+            Danh mục
+        </label>
+
+        <select asp-for="CategoryId"
+                asp-items="ViewBag.Categories"
+                class="form-select">
+
+            <option value="0">
+                -- Chọn danh mục --
+            </option>
+
+        </select>
+
+        <span asp-validation-for="CategoryId"
+              class="text-danger"></span>
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="Description">
+            Mô tả
+        </label>
+
+        <textarea asp-for="Description"
+                  class="form-control">
+        </textarea>
+
+        <span asp-validation-for="Description"
+              class="text-danger"></span>
+    </div>
+
+
+    <button type="submit"
+            class="btn btn-primary">
+        Thêm
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Quay lại
+    </a>
+
+</form>

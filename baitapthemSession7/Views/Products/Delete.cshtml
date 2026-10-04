@@ -1,0 +1,39 @@
+﻿@model baitapthemSession7.Models.Product
+
+<h1>Xóa sản phẩm</h1>
+
+<div class="alert alert-danger">
+    Bạn có chắc chắn muốn xóa sản phẩm này?
+</div>
+
+<p>
+    <strong>ID:</strong> @Model.Id
+</p>
+
+<p>
+    <strong>Tên:</strong> @Model.Name
+</p>
+
+<p>
+    <strong>Giá:</strong>
+    @Model.Price.ToString("N0")
+</p>
+
+<form asp-action="DeleteConfirmed"
+      method="post">
+
+    <input type="hidden"
+           name="id"
+           value="@Model.Id" />
+
+    <button type="submit"
+            class="btn btn-danger">
+        Xác nhận xóa
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Hủy
+    </a>
+
+</form>

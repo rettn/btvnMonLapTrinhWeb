@@ -1,0 +1,49 @@
+﻿@model baitapthemSession7.Models.Product
+
+<h1>Chi tiết sản phẩm</h1>
+
+<p>
+    <strong>ID:</strong>
+    @Model.Id
+</p>
+
+<p>
+    <strong>Tên:</strong>
+    @Model.Name
+</p>
+
+<p>
+    <strong>Ảnh:</strong>
+    @Model.Image
+</p>
+
+<p>
+    <strong>Giá:</strong>
+    @Model.Price.ToString("N0")
+</p>
+
+<p>
+    <strong>Giá khuyến mãi:</strong>
+    @Model.SalePrice.ToString("N0")
+</p>
+
+<p>
+    <strong>Mô tả:</strong>
+    @Model.Description
+</p>
+
+<p>
+    <strong>Category ID:</strong>
+    @Model.CategoryId
+</p>
+
+<a asp-action="Edit"
+   asp-route-id="@Model.Id"
+   class="btn btn-warning">
+    Sửa
+</a>
+
+<a asp-action="Index"
+   class="btn btn-secondary">
+    Quay lại
+</a>
