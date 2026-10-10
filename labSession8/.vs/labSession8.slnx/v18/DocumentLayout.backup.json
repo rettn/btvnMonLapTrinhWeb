@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\publishers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\publishers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\orderdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\orderdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\orderdetail\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\orderdetail\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\orderdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\orderdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\orderdetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\orderdetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\orderdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\orderdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|c:\\webdev\\btvnmonlaptrinhweb\\labsession8\\models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6716334B-8018-3E2A-6AFC-9F86A33FD332}|labSession8.csproj|solutionrelative:models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 299,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Publishers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publishers\\Delete.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Publishers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Publishers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:46:18.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Publishers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publishers\\Create.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Publishers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Publishers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:46:11.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\OrderDetail\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderDetail\\Index.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\OrderDetail\\Index.cshtml",
+              "RelativeToolTip": "Views\\OrderDetail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:43:48.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-10T13:35:19.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Index.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:40:53.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Accounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Create.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Accounts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:39:33.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:52:37.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:36:01.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Publishers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publishers\\Details.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Publishers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Publishers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:46:23.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Publishers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publishers\\Edit.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Publishers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Publishers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:46:27.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Publishers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publishers\\Index.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Publishers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Publishers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:46:31.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\OrderDetail\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderDetail\\Edit.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\OrderDetail\\Edit.cshtml",
+              "RelativeToolTip": "Views\\OrderDetail\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:43:44.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\OrderDetail\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderDetail\\Details.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\OrderDetail\\Details.cshtml",
+              "RelativeToolTip": "Views\\OrderDetail\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:43:38.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\OrderDetail\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderDetail\\Delete.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\OrderDetail\\Delete.cshtml",
+              "RelativeToolTip": "Views\\OrderDetail\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:43:34.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\OrderDetail\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderDetail\\Create.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\OrderDetail\\Create.cshtml",
+              "RelativeToolTip": "Views\\OrderDetail\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:43:29.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:43:22.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:43:11.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:42:47.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:42:34.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:42:29.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:42:17.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:42:05.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:42:06.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:41:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:41:06.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:40:48.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Accounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Details.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Accounts\\Details.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:40:38.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Accounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Delete.cshtml",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Views\\Accounts\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:39:48.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv3MAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T14:05:29.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:57:37.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:56:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:55:17.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Models\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\BookStoreDbContext.cs",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\labSession8\\Models\\BookStoreDbContext.cs",
+              "RelativeToolTip": "Models\\BookStoreDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:28:33.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

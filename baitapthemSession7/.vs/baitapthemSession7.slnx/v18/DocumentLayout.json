@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\WebDev\\btvnMonLapTrinhWeb\\baitapthemSession7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08F58EA7-DA22-46B9-94C2-3E21DE541268}|baitapthemSession7.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|c:\\webdev\\btvnmonlaptrinhweb\\baitapthemsession7\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4010F11-FB53-9FB1-2104-8D3DFBE85CA0}|baitapthemSession7.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,8 +66,7 @@
               "RelativeToolTip": "Views\\Products\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T15:26:46.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:26:46.432Z"
             },
             {
               "$type": "Document",
@@ -77,14 +76,14 @@
               "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
               "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\baitapthemSession7\\Views\\Products\\Details.cshtml",
               "RelativeToolTip": "Views\\Products\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-04T15:25:51.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\baitapthemSession7\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
@@ -92,12 +91,11 @@
               "RelativeToolTip": "Views\\Products\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T15:23:14.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:23:14.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\baitapthemSession7\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "Views\\Products\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T15:24:47.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:24:47.084Z"
             },
             {
               "$type": "Document",
@@ -118,12 +115,11 @@
               "RelativeToolTip": "Controllers\\ProductController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAowCYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:21:20.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:21:20.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\baitapthemSession7\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "Views\\Products\\Create.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T15:24:09.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:24:09.408Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:20:03.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:20:03.736Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:19:09.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:19:09.016Z"
             }
           ]
         },
