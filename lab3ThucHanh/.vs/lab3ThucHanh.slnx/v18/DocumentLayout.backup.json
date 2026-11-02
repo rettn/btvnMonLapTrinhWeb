@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\WebDev\\lab3ThucHanh\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\WebDev\\btvnMonLapTrinhWeb\\lab3ThucHanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8CBE27-0787-F942-66A8-3E475D81C43D}|lab3ThucHanh.csproj|c:\\webdev\\btvnmonlaptrinhweb\\lab3thuchanh\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8CBE27-0787-F942-66A8-3E475D81C43D}|lab3ThucHanh.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8CBE27-0787-F942-66A8-3E475D81C43D}|lab3ThucHanh.csproj|c:\\webdev\\btvnmonlaptrinhweb\\lab3thuchanh\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8CBE27-0787-F942-66A8-3E475D81C43D}|lab3ThucHanh.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8CBE27-0787-F942-66A8-3E475D81C43D}|lab3ThucHanh.csproj|c:\\webdev\\btvnmonlaptrinhweb\\lab3thuchanh\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8CBE27-0787-F942-66A8-3E475D81C43D}|lab3ThucHanh.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\lab3ThucHanh\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\lab3ThucHanh\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T00:30:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\lab3ThucHanh\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\lab3ThucHanh\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T00:30:27.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\WebDev\\btvnMonLapTrinhWeb\\lab3ThucHanh\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Models\\Gender.cs",
+              "ToolTip": "C:\\WebDev\\btvnMonLapTrinhWeb\\lab3ThucHanh\\Models\\Gender.cs",
+              "RelativeToolTip": "Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T00:30:26.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
